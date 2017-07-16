@@ -1,0 +1,11 @@
+{
+  "url": "https://github.com/PapirusDevelopmentTeam/papirus-calibre-theme", 
+  "author": "PapirusDevelopmentTeam (https://github.com/PapirusDevelopmentTeam)", 
+  "version": 1, 
+  "number": 2, 
+  "name": "papirus", 
+  "title": "Papirus", 
+  "license": "LGPL-3.0", 
+  "description": "Papirus icon theme for Calibre", 
+  "date": "2017-07-16"
+}
