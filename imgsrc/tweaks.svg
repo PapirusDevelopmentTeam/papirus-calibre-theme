@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="tweaks.svg">
+   sodipodi:docname="tweak.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -167,7 +167,7 @@
        ry="6"
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect2"
-       style="fill:#e9a84a;stroke-width:4" />
+       style="fill:#e94a63;stroke-width:4" />
     <path
        d="m 14,930.36214 c -3.324,0 -6,2.676 -6,6 v 4 c 0,-3.324 2.676,-6 6,-6 h 100 c 3.324,0 6,2.676 6,6 v -4 c 0,-3.324 -2.676,-6 -6,-6 z"
        id="path4"
@@ -179,34 +179,49 @@
        inkscape:connector-curvature="0"
        style="opacity:0.3;stroke-width:4" />
     <path
-       d="m 40,976.36214 a 10,10 0 0 1 -10,10 10,10 0 0 1 -10,-10 10,10 0 0 1 10,-10 10,10 0 0 1 10,10 z"
+       d="m 40,980.36214 a 10,10 0 0 1 -10,10 10,10 0 0 1 -10,-10 10,10 0 0 1 10,-10 10,10 0 0 1 10,10 z"
        id="path8"
        inkscape:connector-curvature="0"
-       style="fill:#494949;stroke-width:4" />
+       style="opacity:0.2;stroke-width:4" />
+    <path
+       d="m 40,976.36214 a 10,10 0 0 1 -10,10 10,10 0 0 1 -10,-10 10,10 0 0 1 10,-10 10,10 0 0 1 10,10 z"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:4" />
     <path
        d="m 8,1036.3622 v 4 c 0,3.324 2.676,6 6,6 h 100 c 3.324,0 6,-2.676 6,-6 v -4 c 0,3.324 -2.676,6 -6,6 H 14 c -3.324,0 -6,-2.676 -6,-6 z"
-       id="path10"
+       id="path12"
        inkscape:connector-curvature="0"
        style="opacity:0.2;stroke-width:4" />
     <path
        d="m 94,954.36214 c -3.324,0 -6,2.676 -6,6 v 60.00006 c 0,3.324 2.676,6 6,6 3.324,0 6,-2.676 6,-6 v -60.00006 c 0,-3.324 -2.676,-6 -6,-6 z"
-       id="path12"
-       inkscape:connector-curvature="0"
-       style="opacity:0.3;stroke-width:4" />
-    <path
-       d="m 104,988.36214 a 10,10 0 0 1 -10,10 10,10 0 0 1 -10,-10 10,10 0 0 1 10,-10 10,10 0 0 1 10,10 z"
        id="path14"
        inkscape:connector-curvature="0"
-       style="fill:#494949;stroke-width:4" />
+       style="opacity:0.3;stroke-width:4" />
+    <path
+       d="m 104,992.36214 a 10,10 0 0 1 -10,9.99996 10,10 0 0 1 -10,-9.99996 10,10 0 0 1 10,-10 10,10 0 0 1 10,10 z"
+       id="path16"
+       inkscape:connector-curvature="0"
+       style="opacity:0.2;stroke-width:4" />
+    <path
+       d="m 104,988.36214 a 10,10 0 0 1 -10,10 10,10 0 0 1 -10,-10 10,10 0 0 1 10,-10 10,10 0 0 1 10,10 z"
+       id="path18"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:4" />
     <path
        d="m 62,954.36214 c -3.324,0 -6,2.676 -6,6 v 60.00006 c 0,3.324 2.676,6 6,6 3.324,0 6,-2.676 6,-6 v -60.00006 c 0,-3.324 -2.676,-6 -6,-6 z"
-       id="path16"
+       id="path20"
        inkscape:connector-curvature="0"
        style="opacity:0.3;stroke-width:4" />
     <path
-       d="m 72,1004.3621 a 10,10 0 0 1 -10,10.0001 10,10 0 0 1 -10,-10.0001 10,10 0 0 1 10,-9.99996 10,10 0 0 1 10,9.99996 z"
-       id="path18"
+       d="m 72,1008.3622 a 10,10 0 0 1 -10,10 10,10 0 0 1 -10,-10 10,10 0 0 1 10,-10.00006 10,10 0 0 1 10,10.00006 z"
+       id="path22"
        inkscape:connector-curvature="0"
-       style="fill:#494949;stroke-width:4" />
+       style="opacity:0.2;stroke-width:4" />
+    <path
+       d="m 72,1004.3621 a 10,10 0 0 1 -10,10.0001 10,10 0 0 1 -10,-10.0001 10,10 0 0 1 10,-9.99996 10,10 0 0 1 10,9.99996 z"
+       id="path24"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:4" />
   </g>
 </svg>

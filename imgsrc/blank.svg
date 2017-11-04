@@ -14,8 +14,8 @@
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="template.svg">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="blank.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.1328125"
-     inkscape:cx="64"
+     inkscape:cx="45.423877"
      inkscape:cy="52.784228"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,10 +34,10 @@
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-width="1366"
+     inkscape:window-height="694"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="48"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -48,69 +48,81 @@
        orientation="1,0"
        id="guide4138"
        inkscape:label="Margin Left"
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="120,140"
        orientation="1,0"
        id="guide4140"
        inkscape:label="Margin Right"
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-20,120"
        orientation="0,1"
        id="guide4142"
        inkscape:label="Margin Top"
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-16,8"
        orientation="0,1"
        id="guide4144"
        inkscape:label="Margin Bottom"
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="8,8"
        orientation="-0.70710678,0.70710678"
-       id="guide4146" />
+       id="guide4146"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="72,56"
        orientation="0.70710678,0.70710678"
-       id="guide4148" />
+       id="guide4148"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="20,140"
        orientation="1,0"
        id="guide4150"
        inkscape:label="Rectangle Left"
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="108,140"
        orientation="1,0"
        id="guide4152"
        inkscape:label="Rectangle Right"
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-20,116"
        orientation="0,1"
        id="guide4154"
        inkscape:label="Shadow Top"
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-16,12"
        orientation="0,1"
        id="guide4156"
        inkscape:label="Shadow Bottom"
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-20,104"
        orientation="0,1"
        id="guide4158"
        inkscape:label="Rectangle Top"
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-16,24"
        orientation="0,1"
        id="guide4160"
        inkscape:label="Rectangle Bottom"
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -120,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

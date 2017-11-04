@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="ok.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4561"
+       x1="24"
+       x2="44"
+       y1="24"
+       y2="24"
+       gradientTransform="matrix(2.6,0,0,2.66668,1.6,922.36212)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.5664062"
+     inkscape:cx="68.683776"
+     inkscape:cy="58.722882"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="694"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       empspacing="4" />
+    <sodipodi:guide
+       position="8,140"
+       orientation="1,0"
+       id="guide4138"
+       inkscape:label="Margin Left"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="120,140"
+       orientation="1,0"
+       id="guide4140"
+       inkscape:label="Margin Right"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-20,120"
+       orientation="0,1"
+       id="guide4142"
+       inkscape:label="Margin Top"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-16,8"
+       orientation="0,1"
+       id="guide4144"
+       inkscape:label="Margin Bottom"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8,8"
+       orientation="-0.70710678,0.70710678"
+       id="guide4146"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="72,56"
+       orientation="0.70710678,0.70710678"
+       id="guide4148"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="20,140"
+       orientation="1,0"
+       id="guide4150"
+       inkscape:label="Rectangle Left"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="108,140"
+       orientation="1,0"
+       id="guide4152"
+       inkscape:label="Rectangle Right"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-20,116"
+       orientation="0,1"
+       id="guide4154"
+       inkscape:label="Shadow Top"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-16,12"
+       orientation="0,1"
+       id="guide4156"
+       inkscape:label="Shadow Bottom"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-20,104"
+       orientation="0,1"
+       id="guide4158"
+       inkscape:label="Rectangle Top"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-16,24"
+       orientation="0,1"
+       id="guide4160"
+       inkscape:label="Rectangle Bottom"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.36216)">
+    <path
+       style="fill:#4caf50;stroke-width:4;fill-opacity:1"
+       d="M 64 6 A 56 56 0 0 0 8 62 A 56 56 0 0 0 64 118 A 56 56 0 0 0 120 62 A 56 56 0 0 0 64 6 z "
+       transform="translate(0,924.36216)"
+       id="circle2" />
+    <path
+       d="m 64.000001,930.36214 a 56,56 0 0 0 -55.9999998,56 56,56 0 0 0 0.086,2.344 56,56 0 0 1 55.9119998,-54.344 56,56 0 0 1 55.915999,53.656 56,56 0 0 0 0.084,-1.656 56,56 0 0 0 -55.999999,-56 z"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="opacity:0.2;fill:#ffffff;stroke-width:4" />
+    <path
+       d="m 119.916,988.01814 a 56,56 0 0 1 -55.915999,54.34406 56,56 0 0 1 -55.9119998,-53.65606 56,56 0 0 0 -0.088,1.656 A 56,56 0 0 0 64.000001,1046.3622 56,56 0 0 0 120,990.36214 a 56,56 0 0 0 -0.084,-2.344 z"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="opacity:0.2;stroke-width:4" />
+    <g
+       transform="matrix(8,0,0,8,0.406,-7358.5562)"
+       id="g2297">
+      <path
+         style="opacity:0.2;fill-opacity:0.5"
+         inkscape:connector-curvature="0"
+         d="m 11.4844,1040.3296 -4.2422,4.2422 -2.8281,-2.8281 -1.4141,1.4141 2.8281,2.8281 1.4141,1.4141 5.6563,-5.6563 z"
+         id="path16" />
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         id="path4-3"
+         d="m 11.4844,1039.3296 -4.2422,4.2422 -2.8281,-2.8281 -1.4141,1.4141 2.8281,2.8281 1.4141,1.4141 5.6563,-5.6563 z" />
+    </g>
+  </g>
+</svg>

@@ -17,24 +17,7 @@
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="book.svg">
   <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient4561"
-       x1="24"
-       x2="44"
-       y1="24"
-       y2="24"
-       gradientTransform="matrix(2.6,0,0,2.66668,1.6,922.36212)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         id="stop2" />
-      <stop
-         offset="1"
-         stop-opacity="0"
-         id="stop4" />
-    </linearGradient>
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -43,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.52183"
-     inkscape:cx="71.265085"
-     inkscape:cy="65.860304"
+     inkscape:cx="-5.3340876"
+     inkscape:cy="37.798943"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,9 +35,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="694"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="48"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -159,34 +142,34 @@
      id="layer1"
      transform="translate(0,-924.36216)">
     <path
-       d="m 26,930.36216 c -3.324,0 -6,2.67601 -6,6 v 100.00004 c 0,3.324 2.676,6 6,6 h 76 c 3.324,0 6,-2.676 6,-6 V 936.36216 c 0,-3.32399 -2.676,-6 -6,-6 z"
-       id="path2"
        inkscape:connector-curvature="0"
-       style="fill:#009587;stroke-width:4" />
+       style="fill:#8a7b5f;stroke-width:4"
+       d="m 26,930.36216 c -3.324,0 -6,2.676 -6,6 v 100.00004 c 0,3.324 2.676,6 6,6 h 76 c 3.324,0 6,-2.676 6,-6 V 936.36216 c 0,-3.324 -2.676,-6 -6,-6 z"
+       id="path2" />
     <path
-       d="m 26,930.36216 c -3.324,0 -6,2.67601 -6,6 v 100.00004 c 0,3.324 2.676,6 6,6 H 36 V 930.36216 Z"
-       id="path4"
        inkscape:connector-curvature="0"
-       style="opacity:0.2;stroke-width:4" />
+       style="opacity:0.2;stroke-width:4"
+       d="m 26,930.36216 c -3.324,0 -6,2.676 -6,6 v 100.00004 c 0,3.324 2.676,6 6,6 H 36 V 930.36216 Z"
+       id="path4" />
     <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.2;stroke-width:4"
        d="m 76,934.36216 v 56 l 8,-8 8,8 v -56 z"
-       id="path6"
-       inkscape:connector-curvature="0"
-       style="opacity:0.2;stroke-width:4" />
+       id="path6" />
     <path
+       inkscape:connector-curvature="0"
+       style="fill:#f2bc61;stroke-width:4"
        d="m 76,930.36216 v 56 l 8,-8 8,8 v -56 z"
-       id="path8"
-       inkscape:connector-curvature="0"
-       style="fill:#d8d8d8;stroke-width:4" />
+       id="path8" />
     <path
-       d="m 26,930.36216 c -3.324,0 -6,2.67601 -6,6 v 4 c 0,-3.32399 2.676,-6 6,-6 h 76 c 3.324,0 6,2.67601 6,6 v -4 c 0,-3.32399 -2.676,-6 -6,-6 z"
-       id="path10"
        inkscape:connector-curvature="0"
-       style="opacity:0.2;fill:#ffffff;stroke-width:4" />
+       style="opacity:0.2;fill:#ffffff;stroke-width:4"
+       d="m 26,930.36216 c -3.324,0 -6,2.676 -6,6 v 4 c 0,-3.324 2.676,-6 6,-6 h 76 c 3.324,0 6,2.676 6,6 v -4 c 0,-3.324 -2.676,-6 -6,-6 z"
+       id="path10" />
     <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.2;stroke-width:4"
        d="m 20,1036.3622 v 4 c 0,3.324 2.676,6 6,6 h 76 c 3.324,0 6,-2.676 6,-6 v -4 c 0,3.324 -2.676,6 -6,6 H 26 c -3.324,0 -6,-2.676 -6,-6 z"
-       id="path12"
-       inkscape:connector-curvature="0"
-       style="opacity:0.2;stroke-width:4" />
+       id="path12" />
   </g>
 </svg>
