@@ -1,407 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   viewBox="0 0 128 128"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="network-server.svg">
-  <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient4561"
-       x1="24"
-       x2="44"
-       y1="24"
-       y2="24"
-       gradientTransform="matrix(2.6,0,0,2.66668,1.6,922.36212)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         id="stop2" />
-      <stop
-         offset="1"
-         stop-opacity="0"
-         id="stop4" />
-    </linearGradient>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.52183"
-     inkscape:cx="66.088282"
-     inkscape:cy="68.79485"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="717"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4136"
-       empspacing="4" />
-    <sodipodi:guide
-       position="8,140"
-       orientation="1,0"
-       id="guide4138"
-       inkscape:label="Margin Left"
-       inkscape:color="rgb(0,0,255)"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="120,140"
-       orientation="1,0"
-       id="guide4140"
-       inkscape:label="Margin Right"
-       inkscape:color="rgb(0,0,255)"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-20,120"
-       orientation="0,1"
-       id="guide4142"
-       inkscape:label="Margin Top"
-       inkscape:color="rgb(0,0,255)"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-16,8"
-       orientation="0,1"
-       id="guide4144"
-       inkscape:label="Margin Bottom"
-       inkscape:color="rgb(0,0,255)"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="8,8"
-       orientation="-0.70710678,0.70710678"
-       id="guide4146"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="72,56"
-       orientation="0.70710678,0.70710678"
-       id="guide4148"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="20,140"
-       orientation="1,0"
-       id="guide4150"
-       inkscape:label="Rectangle Left"
-       inkscape:color="rgb(0,0,255)"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="108,140"
-       orientation="1,0"
-       id="guide4152"
-       inkscape:label="Rectangle Right"
-       inkscape:color="rgb(0,0,255)"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-20,116"
-       orientation="0,1"
-       id="guide4154"
-       inkscape:label="Shadow Top"
-       inkscape:color="rgb(0,0,255)"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-16,12"
-       orientation="0,1"
-       id="guide4156"
-       inkscape:label="Shadow Bottom"
-       inkscape:color="rgb(0,0,255)"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-20,104"
-       orientation="0,1"
-       id="guide4158"
-       inkscape:label="Rectangle Top"
-       inkscape:color="rgb(0,0,255)"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-16,24"
-       orientation="0,1"
-       id="guide4160"
-       inkscape:label="Rectangle Bottom"
-       inkscape:color="rgb(0,0,255)"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36216)">
-    <g
-       id="g26"
-       transform="matrix(4,0,0,4,0,924.36216)">
-      <rect
-         style="opacity:0.2"
-         width="9"
-         height="28"
-         x="-30"
-         y="-30"
-         rx="1.25"
-         ry="1.25"
-         transform="matrix(0,-1,-1,0,0,0)"
-         id="rect2" />
-      <rect
-         style="fill:#8e8e8e"
-         width="9"
-         height="28"
-         x="-29"
-         y="-30"
-         rx="1.25"
-         ry="1.25"
-         transform="matrix(0,-1,-1,0,0,0)"
-         id="rect4" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="m 12,23 -2,3"
-         id="path6"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="M 9,23 7,26"
-         id="path8"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="M 6,23 4,26"
-         id="path10"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="m 15,23 -2,3"
-         id="path12"
-         inkscape:connector-curvature="0" />
-      <circle
-         style="opacity:0.2"
-         cx="19.5"
-         cy="23.5"
-         r="1.5"
-         id="circle14" />
-      <circle
-         style="opacity:0.2"
-         cx="23.5"
-         cy="23.5"
-         r="1.5"
-         id="circle16" />
-      <circle
-         style="opacity:0.2"
-         cx="27.5"
-         cy="23.5"
-         r="1.5"
-         id="circle18" />
-      <circle
-         style="fill:#76ff03"
-         cx="19.5"
-         cy="22.5"
-         r="1.5"
-         id="circle20" />
-      <circle
-         style="fill:#ffff00"
-         cx="23.5"
-         cy="22.5"
-         r="1.5"
-         id="circle22" />
-      <circle
-         style="fill:#ffcd40"
-         cx="27.5"
-         cy="22.5"
-         r="1.5"
-         id="circle24" />
-    </g>
-    <g
-       id="g52"
-       transform="matrix(4,0,0,4,0,924.36216)">
-      <rect
-         style="opacity:0.2"
-         width="9"
-         height="28"
-         x="-21"
-         y="-30"
-         rx="1.25"
-         ry="1.25"
-         transform="matrix(0,-1,-1,0,0,0)"
-         id="rect28" />
-      <rect
-         style="fill:#8e8e8e"
-         width="9"
-         height="28"
-         x="-20"
-         y="-30"
-         rx="1.25"
-         ry="1.25"
-         transform="matrix(0,-1,-1,0,0,0)"
-         id="rect30" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="m 12,14 -2,3"
-         id="path32"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="M 9,14 7,17"
-         id="path34"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="M 6,14 4,17"
-         id="path36"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="m 15,14 -2,3"
-         id="path38"
-         inkscape:connector-curvature="0" />
-      <circle
-         style="opacity:0.2"
-         cx="19.5"
-         cy="14.5"
-         r="1.5"
-         id="circle40" />
-      <circle
-         style="opacity:0.2"
-         cx="23.5"
-         cy="14.5"
-         r="1.5"
-         id="circle42" />
-      <circle
-         style="opacity:0.2"
-         cx="27.5"
-         cy="14.5"
-         r="1.5"
-         id="circle44" />
-      <circle
-         style="fill:#76ff03"
-         cx="19.5"
-         cy="13.5"
-         r="1.5"
-         id="circle46" />
-      <circle
-         style="fill:#ffff00"
-         cx="23.5"
-         cy="13.5"
-         r="1.5"
-         id="circle48" />
-      <circle
-         style="fill:#ffcd40"
-         cx="27.5"
-         cy="13.5"
-         r="1.5"
-         id="circle50" />
-    </g>
-    <g
-       id="g80"
-       transform="matrix(4,0,0,4,0,924.36216)">
-      <rect
-         style="opacity:0.2"
-         width="9"
-         height="28"
-         x="-12"
-         y="-30"
-         rx="1.25"
-         ry="1.25"
-         transform="matrix(0,-1,-1,0,0,0)"
-         id="rect54" />
-      <rect
-         style="fill:#8e8e8e"
-         width="9"
-         height="28"
-         x="-11"
-         y="-30"
-         rx="1.25"
-         ry="1.25"
-         transform="matrix(0,-1,-1,0,0,0)"
-         id="rect56" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="M 12,5 10,8"
-         id="path58"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="M 9,5 7,8"
-         id="path60"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="M 6,5 4,8"
-         id="path62"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.99919999;stroke-linecap:round"
-         d="M 15,5 13,8"
-         id="path64"
-         inkscape:connector-curvature="0" />
-      <circle
-         style="opacity:0.2"
-         cx="19.5"
-         cy="5.5"
-         r="1.5"
-         id="circle66" />
-      <circle
-         style="opacity:0.2"
-         cx="23.5"
-         cy="5.5"
-         r="1.5"
-         id="circle68" />
-      <circle
-         style="opacity:0.2"
-         cx="27.5"
-         cy="5.5"
-         r="1.5"
-         id="circle70" />
-      <circle
-         style="fill:#76ff03"
-         cx="19.5"
-         cy="4.5"
-         r="1.5"
-         id="circle72" />
-      <circle
-         style="fill:#ffff00"
-         cx="23.5"
-         cy="4.5"
-         r="1.5"
-         id="circle74" />
-      <circle
-         style="fill:#ffcd40"
-         cx="27.5"
-         cy="4.5"
-         r="1.5"
-         id="circle76" />
-      <path
-         style="opacity:0.2;fill:#ffffff"
-         d="M 3.25,2 C 2.5575,2 2,2.5575 2,3.25 v 1 C 2,3.5575 2.5575,3 3.25,3 h 25.5 C 29.442,3 30,3.5575 30,4.25 v -1 C 30,2.5575 29.442,2 28.75,2 Z"
-         id="path78"
-         inkscape:connector-curvature="0" />
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <g>
+  <rect style="opacity:0.2" width="9" height="28" x="-30" y="-30" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="fill:#8e8e8e" width="9" height="28" x="-29" y="-30" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 12,23 10,26"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 9,23 7,26"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 6,23 4,26"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 15,23 13,26"/>
+  <circle style="opacity:0.2" cx="19.5" cy="23.5" r="1.5"/>
+  <circle style="opacity:0.2" cx="23.5" cy="23.5" r="1.5"/>
+  <circle style="opacity:0.2" cx="27.5" cy="23.5" r="1.5"/>
+  <circle style="fill:#76ff03" cx="19.5" cy="22.5" r="1.5"/>
+  <circle style="fill:#ffff00" cx="23.5" cy="22.5" r="1.5"/>
+  <circle style="fill:#ffcd40" cx="27.5" cy="22.5" r="1.5"/>
+ </g>
+ <g>
+  <rect style="opacity:0.2" width="9" height="28" x="-21" y="-30" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="fill:#8e8e8e" width="9" height="28" x="-20" y="-30" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 12,14 10,17"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 9,14 7,17"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 6,14 4,17"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 15,14 13,17"/>
+  <circle style="opacity:0.2" cx="19.5" cy="14.5" r="1.5"/>
+  <circle style="opacity:0.2" cx="23.5" cy="14.5" r="1.5"/>
+  <circle style="opacity:0.2" cx="27.5" cy="14.5" r="1.5"/>
+  <circle style="fill:#76ff03" cx="19.5" cy="13.5" r="1.5"/>
+  <circle style="fill:#ffff00" cx="23.5" cy="13.5" r="1.5"/>
+  <circle style="fill:#ffcd40" cx="27.5" cy="13.5" r="1.5"/>
+ </g>
+ <g>
+  <rect style="opacity:0.2" width="9" height="28" x="-12" y="-30" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="fill:#8e8e8e" width="9" height="28" x="-11" y="-30" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 12,5 10,8"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 9,5 7,8"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 6,5 4,8"/>
+  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.9992;stroke-linecap:round" d="M 15,5 13,8"/>
+  <circle style="opacity:0.2" cx="19.5" cy="5.5" r="1.5"/>
+  <circle style="opacity:0.2" cx="23.5" cy="5.5" r="1.5"/>
+  <circle style="opacity:0.2" cx="27.5" cy="5.5" r="1.5"/>
+  <circle style="fill:#76ff03" cx="19.5" cy="4.5" r="1.5"/>
+  <circle style="fill:#ffff00" cx="23.5" cy="4.5" r="1.5"/>
+  <circle style="fill:#ffcd40" cx="27.5" cy="4.5" r="1.5"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 3.25,2 C 2.5575,2 2,2.5575 2,3.25 V 4.25 C 2,3.5575 2.5575,3 3.25,3 H 28.75 C 29.442,3 30,3.5575 30,4.25 V 3.25 C 30,2.5575 29.442,2 28.75,2 Z"/>
+ </g>
 </svg>
