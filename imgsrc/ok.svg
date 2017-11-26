@@ -1,7 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
- <circle style="opacity:0.2" cx="16" cy="17" r="14"/>
- <circle style="fill:#4caf50" cx="16" cy="16" r="14"/>
- <path style="opacity:0.2" d="M 23.07,9.8 14.586,18.2 8.9294,12.6 6.1012,15.4 11.757,21.2 14.586,24 25.898,12.6 Z"/>
- <path style="fill:#ffffff" d="M 23.07,8.8 14.586,17.2 8.9294,11.6 6.1012,14.4 11.757,20.2 14.586,23 25.898,11.6 Z"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 16 2 A 14 14 0 0 0 2 16 A 14 14 0 0 0 2.0215 16.586 A 14 14 0 0 1 16 3 A 14 14 0 0 1 29.979 16.414 A 14 14 0 0 0 30 16 A 14 14 0 0 0 16 2 z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ok.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     id="namedview14"
+     showgrid="true"
+     inkscape:zoom="25.679692"
+     inkscape:cx="16"
+     inkscape:cy="13.115956"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4152" />
+  </sodipodi:namedview>
+  <circle
+     style="fill:#4caf50"
+     cx="8"
+     cy="8"
+     r="8"
+     id="circle6" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff"
+     d="M 12.242627,4.2461104 7.2809648,9.1597726 3.7452879,5.6564388 2.372303,7.0133096 5.6765932,10.4 7.2931648,12 13.627697,5.6151811 Z"
+     id="path10"
+     sodipodi:nodetypes="cccccccc" />
 </svg>
