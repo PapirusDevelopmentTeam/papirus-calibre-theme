@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
+   width="16"
+   height="16"
    version="1"
    id="svg2"
    inkscape:version="0.91 r13725"
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,193 +39,108 @@
      inkscape:window-width="1920"
      inkscape:window-height="1022"
      id="namedview50"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="-12.40678"
-     inkscape:cy="16"
+     showgrid="true"
+     inkscape:zoom="20.86"
+     inkscape:cx="3.1409396"
+     inkscape:cy="10.247363"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4179" />
+  </sodipodi:namedview>
   <rect
-     width="28"
-     height="28"
-     x="-30"
-     y="-30"
-     rx="1.4"
-     ry="1.4"
+     width="15"
+     height="15"
+     x="-15"
+     y="-15"
+     rx="0.75"
+     ry="0.75"
      transform="matrix(0,-1,-1,0,0,0)"
      id="rect4"
      style="fill:#cc57bc;fill-opacity:1" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.1;fill:#ffffff"
-     d="M 3.4004,2 C 2.6248,2 2,2.6248 2,3.4004 l 0,1 C 2,3.6248 2.6248,3 3.4004,3 l 25.2,0 c 0.775,0 1.4,0.6248 1.4,1.4004 l 0,-1 C 30.0004,2.6248 29.3754,2 28.6004,2 l -25.2,0 z"
-     id="path6" />
-  <path
-     style="opacity:0.2"
-     inkscape:connector-curvature="0"
-     d="m 2,28.6 0,1 C 2,30.375 2.6248,31 3.4004,31 l 25.2,0 c 0.775,0 1.4,-0.625 1.4,-1.4 l 0,-1 c 0,0.775 -0.625,1.4 -1.4,1.4 l -25.2,0 c -0.7752,0 -1.4,-0.625 -1.4,-1.4 z"
-     id="path8" />
-  <g
-     style="opacity:0.2"
-     id="g10">
-    <rect
-       width="6"
-       height="6"
-       x="5"
-       y="6"
-       rx="0.75"
-       ry="0.75"
-       id="rect12" />
-    <rect
-       width="6"
-       height="6"
-       x="13"
-       y="6"
-       rx="0.75"
-       ry="0.75"
-       id="rect14" />
-    <rect
-       width="6"
-       height="6"
-       x="5"
-       y="14"
-       rx="0.75"
-       ry="0.75"
-       id="rect16" />
-    <rect
-       width="6"
-       height="6"
-       x="13"
-       y="14"
-       rx="0.75"
-       ry="0.75"
-       id="rect18" />
-    <rect
-       width="6"
-       height="6"
-       x="5"
-       y="22"
-       rx="0.75"
-       ry="0.75"
-       id="rect20" />
-    <rect
-       width="6"
-       height="6"
-       x="13"
-       y="22"
-       rx="0.75"
-       ry="0.75"
-       id="rect22" />
-    <rect
-       width="6"
-       height="6"
-       x="21"
-       y="6"
-       rx="0.75"
-       ry="0.75"
-       id="rect24" />
-    <rect
-       width="6"
-       height="6"
-       x="21"
-       y="14"
-       rx="0.75"
-       ry="0.75"
-       id="rect26" />
-    <rect
-       width="6"
-       height="6"
-       x="21"
-       y="22"
-       rx="0.75"
-       ry="0.75"
-       id="rect28" />
-  </g>
-  <g
-     id="g30"
-     style="fill:#3f3f3f;fill-opacity:1">
-    <rect
-       style="fill:#3f3f3f;fill-opacity:1"
-       width="6"
-       height="6"
-       x="5"
-       y="5"
-       rx="0.75"
-       ry="0.75"
-       id="rect32" />
-    <rect
-       style="fill:#3f3f3f;fill-opacity:1"
-       width="6"
-       height="6"
-       x="13"
-       y="5"
-       rx="0.75"
-       ry="0.75"
-       id="rect34" />
-    <rect
-       style="fill:#3f3f3f;fill-opacity:1"
-       width="6"
-       height="6"
-       x="5"
-       y="13"
-       rx="0.75"
-       ry="0.75"
-       id="rect36" />
-    <rect
-       style="fill:#3f3f3f;fill-opacity:1"
-       width="6"
-       height="6"
-       x="13"
-       y="13"
-       rx="0.75"
-       ry="0.75"
-       id="rect38" />
-    <rect
-       style="fill:#3f3f3f;fill-opacity:1"
-       width="6"
-       height="6"
-       x="5"
-       y="21"
-       rx="0.75"
-       ry="0.75"
-       id="rect40" />
-    <rect
-       style="fill:#3f3f3f;fill-opacity:1"
-       width="6"
-       height="6"
-       x="13"
-       y="21"
-       rx="0.75"
-       ry="0.75"
-       id="rect42" />
-    <rect
-       style="fill:#3f3f3f;fill-opacity:1"
-       width="6"
-       height="6"
-       x="21"
-       y="5"
-       rx="0.75"
-       ry="0.75"
-       id="rect44" />
-    <rect
-       style="fill:#3f3f3f;fill-opacity:1"
-       width="6"
-       height="6"
-       x="21"
-       y="13"
-       rx="0.75"
-       ry="0.75"
-       id="rect46" />
-    <rect
-       style="fill:#3f3f3f;fill-opacity:1"
-       width="6"
-       height="6"
-       x="21"
-       y="21"
-       rx="0.75"
-       ry="0.75"
-       id="rect48" />
-  </g>
+  <rect
+     id="rect32"
+     ry="0.375"
+     rx="0.375"
+     y="2"
+     x="2"
+     height="3"
+     width="3"
+     style="fill:#3f3f3f;fill-opacity:1" />
+  <rect
+     style="fill:#3f3f3f;fill-opacity:1"
+     width="3"
+     height="3"
+     x="6"
+     y="2"
+     rx="0.375"
+     ry="0.375"
+     id="rect4190" />
+  <rect
+     id="rect4192"
+     ry="0.375"
+     rx="0.375"
+     y="2"
+     x="10"
+     height="3"
+     width="3"
+     style="fill:#3f3f3f;fill-opacity:1" />
+  <rect
+     style="fill:#3f3f3f;fill-opacity:1"
+     width="3"
+     height="3"
+     x="2"
+     y="6"
+     rx="0.375"
+     ry="0.375"
+     id="rect4194" />
+  <rect
+     id="rect4196"
+     ry="0.375"
+     rx="0.375"
+     y="6"
+     x="6"
+     height="3"
+     width="3"
+     style="fill:#3f3f3f;fill-opacity:1" />
+  <rect
+     style="fill:#3f3f3f;fill-opacity:1"
+     width="3"
+     height="3"
+     x="10"
+     y="6"
+     rx="0.375"
+     ry="0.375"
+     id="rect4198" />
+  <rect
+     id="rect4200"
+     ry="0.375"
+     rx="0.375"
+     y="10"
+     x="2"
+     height="3"
+     width="3"
+     style="fill:#3f3f3f;fill-opacity:1" />
+  <rect
+     style="fill:#3f3f3f;fill-opacity:1"
+     width="3"
+     height="3"
+     x="6"
+     y="10"
+     rx="0.375"
+     ry="0.375"
+     id="rect4202" />
+  <rect
+     id="rect4204"
+     ry="0.375"
+     rx="0.375"
+     y="10"
+     x="10"
+     height="3"
+     width="3"
+     style="fill:#3f3f3f;fill-opacity:1" />
 </svg>
