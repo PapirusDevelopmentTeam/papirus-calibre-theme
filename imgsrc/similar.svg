@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,7 +42,7 @@
      showgrid="false"
      inkscape:object-nodes="true"
      inkscape:zoom="16.94"
-     inkscape:cx="3.7284534"
+     inkscape:cx="8.681763"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="28"
@@ -53,7 +53,6 @@
        id="grid4159" />
   </sodipodi:namedview>
   <rect
-     fill="#f58411"
      width="28"
      height="28"
      x="-30"
@@ -64,14 +63,14 @@
      id="rect4"
      style="fill:#4f4f4f;fill-opacity:1" />
   <path
-     fill="#fff"
-     opacity=".2"
-     d="m3.4004 2c-0.7756 0-1.4004 0.6248-1.4004 1.4004v1c0-0.7756 0.6248-1.4004 1.4004-1.4004h25.2c0.775 0 1.4 0.6248 1.4 1.4004v-1c0-0.7756-0.625-1.4004-1.4-1.4004h-25.2z"
+     inkscape:connector-curvature="0"
+     d="M 3.4004,2 C 2.6248,2 2,2.6248 2,3.4004 l 0,1 C 2,3.6248 2.6248,3 3.4004,3 l 25.2,0 c 0.775,0 1.4,0.6248 1.4,1.4004 l 0,-1 C 30.0004,2.6248 29.3754,2 28.6004,2 l -25.2,0 z"
      id="path6"
-     style="opacity:0.1" />
+     style="opacity:0.1;fill:#ffffff" />
   <path
-     opacity=".2"
-     d="m2 28.6v1c0 0.775 0.6248 1.4 1.4004 1.4h25.2c0.775 0 1.4-0.625 1.4-1.4v-1c0 0.775-0.625 1.4-1.4 1.4h-25.2c-0.7752 0-1.4-0.625-1.4-1.4z"
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     d="m 2,28.6 0,1 C 2,30.375 2.6248,31 3.4004,31 l 25.2,0 c 0.775,0 1.4,-0.625 1.4,-1.4 l 0,-1 c 0,0.775 -0.625,1.4 -1.4,1.4 l -25.2,0 c -0.7752,0 -1.4,-0.625 -1.4,-1.4 z"
      id="path8" />
   <rect
      ry="1.05"

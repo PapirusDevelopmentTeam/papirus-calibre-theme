@@ -40,14 +40,13 @@
      id="namedview50"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="-12.40678"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <rect
-     fill="#325f78"
      width="28"
      height="28"
      x="-30"
@@ -58,13 +57,14 @@
      id="rect4"
      style="fill:#cc57bc;fill-opacity:1" />
   <path
-     fill="#fff"
-     style="opacity:0.1"
-     d="m3.4004 2c-0.7756 0-1.4004 0.6248-1.4004 1.4004v1c0-0.7756 0.6248-1.4004 1.4004-1.4004h25.2c0.775 0 1.4 0.6248 1.4 1.4004v-1c0-0.7756-0.625-1.4004-1.4-1.4004h-25.2z"
+     inkscape:connector-curvature="0"
+     style="opacity:0.1;fill:#ffffff"
+     d="M 3.4004,2 C 2.6248,2 2,2.6248 2,3.4004 l 0,1 C 2,3.6248 2.6248,3 3.4004,3 l 25.2,0 c 0.775,0 1.4,0.6248 1.4,1.4004 l 0,-1 C 30.0004,2.6248 29.3754,2 28.6004,2 l -25.2,0 z"
      id="path6" />
   <path
-     opacity=".2"
-     d="m2 28.6v1c0 0.775 0.6248 1.4 1.4004 1.4h25.2c0.775 0 1.4-0.625 1.4-1.4v-1c0 0.775-0.625 1.4-1.4 1.4h-25.2c-0.7752 0-1.4-0.625-1.4-1.4z"
+     style="opacity:0.2"
+     inkscape:connector-curvature="0"
+     d="m 2,28.6 0,1 C 2,30.375 2.6248,31 3.4004,31 l 25.2,0 c 0.775,0 1.4,-0.625 1.4,-1.4 l 0,-1 c 0,0.775 -0.625,1.4 -1.4,1.4 l -25.2,0 c -0.7752,0 -1.4,-0.625 -1.4,-1.4 z"
      id="path8" />
   <g
      style="opacity:0.2"
@@ -74,72 +74,72 @@
        height="6"
        x="5"
        y="6"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect12" />
     <rect
        width="6"
        height="6"
        x="13"
        y="6"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect14" />
     <rect
        width="6"
        height="6"
        x="5"
        y="14"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect16" />
     <rect
        width="6"
        height="6"
        x="13"
        y="14"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect18" />
     <rect
        width="6"
        height="6"
        x="5"
        y="22"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect20" />
     <rect
        width="6"
        height="6"
        x="13"
        y="22"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect22" />
     <rect
        width="6"
        height="6"
        x="21"
        y="6"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect24" />
     <rect
        width="6"
        height="6"
        x="21"
        y="14"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect26" />
     <rect
        width="6"
        height="6"
        x="21"
        y="22"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect28" />
   </g>
   <g
@@ -151,8 +151,8 @@
        height="6"
        x="5"
        y="5"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect32" />
     <rect
        style="fill:#3f3f3f;fill-opacity:1"
@@ -160,8 +160,8 @@
        height="6"
        x="13"
        y="5"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect34" />
     <rect
        style="fill:#3f3f3f;fill-opacity:1"
@@ -169,8 +169,8 @@
        height="6"
        x="5"
        y="13"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect36" />
     <rect
        style="fill:#3f3f3f;fill-opacity:1"
@@ -178,8 +178,8 @@
        height="6"
        x="13"
        y="13"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect38" />
     <rect
        style="fill:#3f3f3f;fill-opacity:1"
@@ -187,8 +187,8 @@
        height="6"
        x="5"
        y="21"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect40" />
     <rect
        style="fill:#3f3f3f;fill-opacity:1"
@@ -196,8 +196,8 @@
        height="6"
        x="13"
        y="21"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect42" />
     <rect
        style="fill:#3f3f3f;fill-opacity:1"
@@ -205,8 +205,8 @@
        height="6"
        x="21"
        y="5"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect44" />
     <rect
        style="fill:#3f3f3f;fill-opacity:1"
@@ -214,8 +214,8 @@
        height="6"
        x="21"
        y="13"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect46" />
     <rect
        style="fill:#3f3f3f;fill-opacity:1"
@@ -223,8 +223,8 @@
        height="6"
        x="21"
        y="21"
-       rx=".75"
-       ry=".75"
+       rx="0.75"
+       ry="0.75"
        id="rect48" />
   </g>
 </svg>
