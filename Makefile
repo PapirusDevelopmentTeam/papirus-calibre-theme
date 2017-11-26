@@ -1,3 +1,5 @@
+ZOOM_FACTOR := 1
+
 all:
 
 build: convert
@@ -7,7 +9,7 @@ clean:
 	find ./resources/images -empty -delete
 
 convert:
-	sh imgsrc/_convert-to-png.sh
+	ZOOM_FACTOR=$(ZOOM_FACTOR) sh imgsrc/_convert-to-png.sh
 
 install:
 

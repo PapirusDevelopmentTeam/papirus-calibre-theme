@@ -4,6 +4,7 @@ set -e
 
 SCRIPT_DIR=$(dirname "$0")
 TARGET_DIR="$SCRIPT_DIR/../resources/images"
+ZOOM_FACTOR="${ZOOM_FACTOR:-1}"
 
 echo "=> Generate bitmap icons ..."
 find "$SCRIPT_DIR/." -name '*.svg' | while read -r file; do
@@ -17,5 +18,5 @@ find "$SCRIPT_DIR/." -name '*.svg' | while read -r file; do
     echo "Convert $file -> $dest_file"
 
     mkdir -p "$dest_dir"
-    rsvg-convert -f png "$file" -o "$dest_file"
+    rsvg-convert -z "$ZOOM_FACTOR" -f png "$file" -o "$dest_file"
 done
