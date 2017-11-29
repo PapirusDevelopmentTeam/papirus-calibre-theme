@@ -12,8 +12,11 @@ convert:
 	ZOOM_FACTOR=$(ZOOM_FACTOR) sh imgsrc/_convert-to-png.sh
 
 install:
+	mkdir -p "$(HOME)/.config/calibre/resources/images"
+	cp -R resources/images "$(HOME)/.config/calibre/resources"
 
 uninstall:
+	rm -rf "$(HOME)/.config/calibre/resources/images"
 
 
 .PHONY: all build clean convert install uninstall
