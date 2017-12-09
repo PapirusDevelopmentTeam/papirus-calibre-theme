@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="32" height="32" version="1">
+ <rect style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4202" width="26" height="6" x="2" y="23" rx="1.5" ry="1.5"/>
+ <rect id="rect4158" width="26" height="6" x="2" y="22" rx="1.5" ry="1.5" style="opacity:1;fill:#733737;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+ <rect id="rect4204" width="26" height="6" x="4" y="17" ry="1.5" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+ <rect style="opacity:1;fill:#4ba024;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4160" width="26" height="6" x="4" y="16" ry="1.5"/>
+ <rect style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4206" width="26" height="6" x="1" y="11" rx="1.5" ry="1.5"/>
+ <rect id="rect4166" width="26" height="6" x="1" y="10" rx="1.5" ry="1.5" style="opacity:1;fill:#ffd715;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+ <rect id="rect4208" width="26" height="6" x="2" y="5" rx="1.5" ry="1.5" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+ <rect style="opacity:1;fill:#2675b0;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4168" width="26" height="6" x="2" y="4" rx="1.5" ry="1.5"/>
+ <path style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4188" d="M 3.5 4 C 2.669 4 2 4.669 2 5.5 L 2 6.5 C 2 5.669 2.669 5 3.5 5 L 26.5 5 C 27.331 5 28 5.669 28 6.5 L 28 5.5 C 28 4.669 27.331 4 26.5 4 L 3.5 4 z"/>
+</svg>
