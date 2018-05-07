@@ -1,10 +1,29 @@
 # Papirus Calibre Theme
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-calibre-theme/master/preview.png" alt="preview"/>
+  <img src="calibre.png" alt="calibre preview"/>
+</p>
+<p align="center">
+  <img src="reader.png" alt="ebook reader preview"/>
 </p>
 
 ## Installation
+
+### Install from calibre preferences
+Go to **Preferences** and choose **Look & Feel**
+<p align="center">
+  <img src="preference.png" alt="preference window"/>
+</p>
+
+click **Change icon theme**
+<p align="center">
+  <img src="lookandfeel.png" alt="look and feel window"/>
+</p>
+
+from the list choose **Papirus**
+<p align="center">
+  <img src="icons.png" alt="icons window"/>
+</p>
 
 ###  Manual Install
 
